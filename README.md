@@ -16,4 +16,4 @@ I normalized the frequency by the amount of text available.
 I interpret the resulting number as a measure of how important that word is to the candidate's speech. 
 Comparing the importance of words across the 3 candidates yields the Ternary Plot above. 
 The bubbles are scaled based on the average importance of the word. 
-All analysis was done in Python using standard tools (i.e., Pandas, sklearn) and the site was created using D3.js tooling.
+All analysis was done in Python using standard tools (i.e., Pandas, sklearn) and the site was created using D3.
